@@ -1,0 +1,179 @@
+{
+    "123": {
+        "password": "234",
+        "role": "user"
+    },
+    "thanh": {
+        "password": "123",
+        "role": "user"
+    },
+    "123456": {
+        "password": "123",
+        "role": "admin"
+    },
+    "tanthanh": {
+        "password": "1234",
+        "role": "admin"
+    },
+    "123456789": {
+        "password": "thanh",
+        "role": "admin",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "1230": {
+        "password": "1230",
+        "role": "admin",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "44": {
+        "password": "543",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "00": {
+        "password": "00",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "1234": {
+        "password": "55",
+        "role": "\u0111\u1ed9c gi\u1ea3",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "thanhtan": {
+        "password": "123",
+        "role": "admin",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "tt": {
+        "password": "11",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "99": {
+        "password": "99",
+        "role": "\u0111\u1ed9c gi\u1ea3",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "456": {
+        "password": "456",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "12300": {
+        "password": "12300",
+        "role": "admin",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "12388": {
+        "password": "123",
+        "role": "admin"
+    },
+    "33": {
+        "password": "33",
+        "role": "admin"
+    },
+    "1237": {
+        "password": "123",
+        "role": "admin"
+    },
+    "12367": {
+        "password": "12345",
+        "role": "user"
+    },
+    "55": {
+        "password": "0",
+        "role": "admin",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "8": {
+        "password": "8",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "4": {
+        "password": "4",
+        "role": "\u0111\u1ed9c gi\u1ea3",
+        "fullname": "",
+        "email": "",
+        "phone": ""
+    },
+    "1111": {
+        "password": "11",
+        "role": "user"
+    },
+    "1230000": {
+        "password": "1",
+        "role": "admin"
+    },
+    "34": {
+        "password": "34",
+        "role": "admin"
+    },
+    "8888": {
+        "password": "8888",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "nguyenthanh",
+        "email": "thanh@gmail.com",
+        "phone": "0386773891"
+    },
+    "6666": {
+        "password": "6666",
+        "role": "admin",
+        "fullname": "t",
+        "email": "tan@gmail.com",
+        "phone": "0345452282"
+    },
+    "77": {
+        "password": "777",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "77",
+        "email": "77",
+        "phone": "77"
+    },
+    "88": {
+        "password": "88",
+        "role": "th\u1ee7 th\u01b0",
+        "fullname": "88",
+        "email": "88",
+        "phone": "88"
+    },
+    "rr": {
+        "password": "rr",
+        "role": "\u0111\u1ed9c gi\u1ea3",
+        "fullname": "rr",
+        "email": "rr",
+        "phone": "rr"
+    },
+    "xx": {
+        "password": "xx",
+        "role": "admin",
+        "fullname": "xx",
+        "email": "xx",
+        "phone": "xx"
+    }
+}
